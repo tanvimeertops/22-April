@@ -1,0 +1,37 @@
+Testing : 
+
+Manual testing: 
+website
+mobile
+desktop
+
+test scenerio
+test case
+hlr
+defect report
+
+tools
+BTT
+JIRA
+bugzilla
+
+performance testing
+jmeter
+hp load runner
+
+responsive testing
+LT browser
+
+cross browser testing
+browser stack
+lambda test
+
+
+sql (database testing)
+
+core java
+selenium web automation
+mobile automation appium
+api testing postman
+
+Automation testing
